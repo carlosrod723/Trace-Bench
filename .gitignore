@@ -17,3 +17,4 @@ _diag.py
 /.tmp_m2_validate
 .pytest_tmp*/
 pytest_tmp*/
+*_executed.ipynb
